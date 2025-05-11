@@ -1,5 +1,17 @@
+### 1- Document permettant la description du script
 
-**Pour Debian**
+Ce document décrit comment utiliser le scripts Linux.
 
-- Un serveur Debian connecté sur le même réseau que la machine client
-- Le service SSH installé et actif sur toutes la machine client
+**Client ubuntu** 
+
+* chmod +x scriptprojetsolo.sh
+* ./script.sh
+
+er  
+  
+
+
+
+
+
+
