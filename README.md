@@ -51,8 +51,11 @@ Projet solo realisé par Mamadou qui a occupé les fonctions du sprint
 Difficultés à envoyer des fichiers via ssh avec scp, j'ai essayé plusieurs fois à envoyer des fichiers de la machine client CLILIN01 vers le serveur Debian SRVLX01 mais ça me demande le mot de passe j'ai fait les modification sur le serveur Debian en configurant le fichier sshd_config voir image bloqué par le mot de passe qui passe pas. 
 
 ## Solutions trouvées 
+Pour l'instant je continue à faire mes recherches et dois voire avec mon formateur si je peux avoir quelques infos de plus pour trouvé plus solution et pouvoir finir pour que tout marche et fonctionne comme prevu. 
+
 
 ### Amelioration possibles 
+A voir ? 
 
 
 
