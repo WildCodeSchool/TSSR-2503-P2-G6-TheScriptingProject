@@ -20,6 +20,21 @@ Ce document décrit comment utiliser le scripts Linux.
 <img width="427" alt="Captures1" src="https://github.com/user-attachments/assets/c4adb3df-8253-45f7-966d-a836587862e9" />
 
 
+## ✏️ FAQ
+
+Q- Le script vérifie-t-il si l’utilisateur existe déjà ?
+
+R- Oui. Si un utilisateur est déjà présent, le script affiche un message d’avertissement et passe au suivant.
+
+Q- Puis-je exécuter le script sur plusieurs machines ?
+
+R- Oui. Le script peut être adapté pour fonctionner avec une liste d’IP ou de noms d’hôtes contenue dans un fichier.
+
+
+
+
+
+
 
 
 
